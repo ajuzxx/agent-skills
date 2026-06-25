@@ -1,0 +1,7 @@
+[project]
+name = "customer-support-agent"
+version = "0.1.0"
+description = "A customer support graph workflow agent for a shipping company."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["google-adk>=2.0", "litellm>=1.75.5"]
